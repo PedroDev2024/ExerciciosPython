@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c100a61-f4e0-4b02-81cb-8a824ed66d4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aula 7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonteste/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonteste/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonteste/.idea/modules.xml" afterDir="false" />
@@ -14,7 +12,6 @@
       <change afterPath="$PROJECT_DIR$/pythonteste/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonteste/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,22 +37,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.aula06.executor": "Run",
-    "Python.desafio04.executor": "Run",
-    "Python.exdaaula4.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/pedro/Desktop/ExerciciosPython"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.aula 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exdaaula4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/Desktop/ExerciciosPython&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pedro\Desktop\ExerciciosPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula06">
+  <component name="RunManager" selected="Python.aula 7">
+    <configuration name="aula 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ExerciciosPython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="aula06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ExerciciosPython" />
       <option name="ENV_FILES" value="" />
@@ -124,6 +144,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula 7" />
         <item itemvalue="Python.aula06" />
         <item itemvalue="Python.desafio04" />
       </list>
